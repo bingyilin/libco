@@ -1,0 +1,82 @@
+[
+{
+  "directory": "D:/workspace/libco/",
+  "command": "g++.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/coctx.cpp\"",
+  "file": "D:/workspace/libco/coctx.cpp"
+},
+{
+  "directory": "D:/workspace/libco/",
+  "command": "g++.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/co_comm.cpp\"",
+  "file": "D:/workspace/libco/co_comm.cpp"
+},
+{
+  "directory": "D:/workspace/libco/",
+  "command": "g++.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/co_epoll.cpp\"",
+  "file": "D:/workspace/libco/co_epoll.cpp"
+},
+{
+  "directory": "D:/workspace/libco/",
+  "command": "g++.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/co_hook_sys_call.cpp\"",
+  "file": "D:/workspace/libco/co_hook_sys_call.cpp"
+},
+{
+  "directory": "D:/workspace/libco/",
+  "command": "g++.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/co_routine.cpp\"",
+  "file": "D:/workspace/libco/co_routine.cpp"
+},
+{
+  "directory": "D:/workspace/libco/",
+  "command": "g++.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/example_closure.cpp\"",
+  "file": "D:/workspace/libco/example_closure.cpp"
+},
+{
+  "directory": "D:/workspace/libco/",
+  "command": "g++.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/example_cond.cpp\"",
+  "file": "D:/workspace/libco/example_cond.cpp"
+},
+{
+  "directory": "D:/workspace/libco/",
+  "command": "g++.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/example_copystack.cpp\"",
+  "file": "D:/workspace/libco/example_copystack.cpp"
+},
+{
+  "directory": "D:/workspace/libco/",
+  "command": "g++.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/example_echocli.cpp\"",
+  "file": "D:/workspace/libco/example_echocli.cpp"
+},
+{
+  "directory": "D:/workspace/libco/",
+  "command": "g++.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/example_echosvr.cpp\"",
+  "file": "D:/workspace/libco/example_echosvr.cpp"
+},
+{
+  "directory": "D:/workspace/libco/",
+  "command": "g++.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/example_poll.cpp\"",
+  "file": "D:/workspace/libco/example_poll.cpp"
+},
+{
+  "directory": "D:/workspace/libco/",
+  "command": "g++.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/example_setenv.cpp\"",
+  "file": "D:/workspace/libco/example_setenv.cpp"
+},
+{
+  "directory": "D:/workspace/libco/",
+  "command": "g++.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/example_specific.cpp\"",
+  "file": "D:/workspace/libco/example_specific.cpp"
+},
+{
+  "directory": "D:/workspace/libco/",
+  "command": "g++.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/example_thread.cpp\"",
+  "file": "D:/workspace/libco/example_thread.cpp"
+},
+{
+  "directory": "D:/workspace/libco/",
+  "command": "gcc.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/CMakeFiles/3.19.0-rc2/CompilerIdC/CMakeCCompilerId.c\"",
+  "file": "D:/workspace/libco/CMakeFiles/3.19.0-rc2/CompilerIdC/CMakeCCompilerId.c"
+},
+{
+  "directory": "D:/workspace/libco/",
+  "command": "g++.exe --target=arm-linux-gnueabi -ferror-limit=0  -c \"D:/workspace/libco/CMakeFiles/3.19.0-rc2/CompilerIdCXX/CMakeCXXCompilerId.cpp\"",
+  "file": "D:/workspace/libco/CMakeFiles/3.19.0-rc2/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+}
+]
